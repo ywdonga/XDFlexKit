@@ -1,0 +1,6 @@
+framework module XDFlexKit {
+  umbrella header "XDFlexKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

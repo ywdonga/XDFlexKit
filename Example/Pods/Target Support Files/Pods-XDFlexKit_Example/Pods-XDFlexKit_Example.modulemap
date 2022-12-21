@@ -1,0 +1,6 @@
+framework module Pods_XDFlexKit_Example {
+  umbrella header "Pods-XDFlexKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
